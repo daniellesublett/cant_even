@@ -1,0 +1,21 @@
+.title{
+  color: green;
+  margin: 2em;
+}
+
+.borders{
+  border: 1px solid black;
+  width: 50%;
+}
+
+#odd-div{
+  padding: 1em;
+}
+
+button{
+  background-color: blue;
+  font-size: 30px;
+  margin: 2em;
+  border-radius: 5px;
+}
+
